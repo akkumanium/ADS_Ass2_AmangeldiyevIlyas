@@ -21,9 +21,7 @@ public class BankingApp {
 
         boolean running = true;
         while (running) {
-            System.out.println("=============================");
-            System.out.println("   WELCOME TO SIMPLE BANK   ");
-            System.out.println("=============================");
+            System.out.println("   WELCOME TO BANK   ");
             System.out.println("1 – Enter Bank");
             System.out.println("2 – Enter ATM");
             System.out.println("3 – Admin Area");
