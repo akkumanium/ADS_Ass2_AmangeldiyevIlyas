@@ -17,3 +17,10 @@ Task 5: Account Opening Queue I implemented another Queue to handle requests for
 Task 6: Physical Data Structure (Array) To demonstrate a physical data structure, I created a standard Java array of BankAccount objects with a fixed size of 3. I initialized the array with predefined data. This task highlights the difference between an array, which has a static size and contiguous memory allocation, and a LinkedList, which is more flexible for growing data sets.
 
 Brief summary of work process The work process involved setting up the basic class structure and then implementing each logical data structure one by one. I focused on making sure that the stack and queues handle data correctly without causing errors. I faced a minor issue with the scanner skipping lines when switching between numbers and strings, but I fixed it by using the parse method. The final step was creating a menu that integrates all these functions into a single banking application.
+
+<img width="240" height="238" alt="image" src="https://github.com/user-attachments/assets/431472d2-8d3d-4ad0-ad93-4f8d5181e0b9" />
+<img width="404" height="279" alt="image" src="https://github.com/user-attachments/assets/3d948e56-804c-4fef-8ef3-c6264eca79aa" />
+<img width="354" height="293" alt="image" src="https://github.com/user-attachments/assets/04f00ca4-cfec-4660-a6a4-b2b49086a4c3" />
+
+
+
