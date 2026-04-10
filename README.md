@@ -1,8 +1,8 @@
-Assignment 2 - Physical & Logical Data Structures 
+Assignment 2
 Student: Ilyas Amangeldiyev
 Group: IT-2504
 
-All my codes was wrote in Main.java used principles of OOP.
+All of my codes were written in Java and used principles of OOP.
 
 Task 1: Bank Account Storage In this task, I created a BankAccount class to represent a user with fields for account number, name, and balance. I used a LinkedList to store these objects. This choice is based on the fact that a LinkedList is a logical data structure that allows for dynamic memory allocation, making it easy to add new accounts. I also implemented a search function to find users in the list and a display function to print all active accounts.
 
